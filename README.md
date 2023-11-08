@@ -50,4 +50,4 @@ Add your own domain name and have it point to the running services (try adding a
 
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 
-http://imagefilter-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://www.searchenginejournal.com/wp-content/uploads/2022/06/image-search-1600-x-840-px-62c6dc4ff1eee-sej.png
+http://image-filter-starter-code-dev22.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
